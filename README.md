@@ -3,3 +3,5 @@ This is a change on my README
 A new change oh si.
 Hallo
 Hi
+
+Commit from terminal
